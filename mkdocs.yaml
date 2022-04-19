@@ -1,0 +1,8 @@
+site_name: "eric1-rest"
+site_description: "Testing an application"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
