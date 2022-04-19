@@ -20,11 +20,11 @@ metadata:
       title: SRE metrics (production)
       icon: web    
   annotations:
-    github.com/project-slug: raf-backstage-demo/eric1-rest
+    github.com/project-slug: etsauer-acme/eric1-rest
     'backstage.io/kubernetes-id': eric1-rest
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=eric1-rest'
     'backstage.io/techdocs-ref': dir:.
 spec:
   type: service
   lifecycle: experimental
-  owner: "Eric Sauer"
+  owner: "customerdata"
